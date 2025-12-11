@@ -1,0 +1,86 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+
+/* .img1 {
+    background: url(images/dice1.png)no-repeat;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;  
+      width: 256px;
+      height: 256px;
+      margin: 10px;
+}.img2 {
+    background: url(images/dice2.png)no-repeat;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;  
+      width: 256px;
+      height: 256px;
+      margin: 10px;
+}.img3 {
+    background: url(images/dice3.png)no-repeat;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;  
+      width: 256px;
+      height: 256px;
+      margin: 10px;
+}.img4 {
+    background: url(images/dice4.png)no-repeat;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;  
+      width: 256px;
+      height: 256px;
+      margin: 10px;
+}.img5 {
+    background: url(images/dice5.png)no-repeat;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;  
+      width: 256px;
+      height: 256px;
+      margin: 10px;
+}.img6 {
+    background: url(images/dice6.png)no-repeat;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;  
+      width: 256px;
+      height: 256px;
+      margin: 10px;
+} */
